@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "肥羊饭影视提示：软件仅限自用测试，切勿购买传播",
+      "name": "提示：关注公众号：拾光趣乐屋，切勿购买传播",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -1916,7 +1916,7 @@
 
 {
             "key": "push_agent",
-            "name": "手机｜推送",
+            "name": "关注公众号｜拾光趣乐屋",
             "type": 3,
             "api": "csp_Push",
             "jar": "./spider.jar",
